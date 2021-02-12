@@ -1,0 +1,17 @@
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.fuelChoice.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.code.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ticket.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.retirercarte.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.merci.resources
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\poupardinp\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.cancel.resources
